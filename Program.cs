@@ -1,6 +1,8 @@
-﻿namespace aula10_exercicio06
+﻿//Exercício da aula 06
+
+namespace aula10_exercicio06
 {
-    class Program
+    public class Program1
     {
         static void Main(string[] args)
         {
@@ -24,5 +26,16 @@
         public int anoAtual;
         public int anoNascimento;
 
+    }
+
+
+    //Desafio do professor
+
+    public class Program2
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Digite quantos quilômetros foram percorridos ");
+        }
     }
 }
